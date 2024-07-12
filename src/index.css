@@ -11,7 +11,7 @@ h2,
 h3,
 input,
 button {
-  font-family: 'Press Start 2P', system-ui;
+  font-family: fa-regular fa-pen-to-square, system-uifa-solid fa-trash;
 }
 
 #root {
